@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+  {% include header.html %}
+  <div class="ui vertical segment">
+    <div class="ui center aligned three column grid container">
+      <div class="row">
+        <div class="four wide column">
+          {% include leftbar.html %}
+          </div>
+        </div>
+        <div class="eight wide column left aligned">
+          {{content}}
+        </div>
+        <div class="four wide column">
+          {% include rightbar.html %}
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+{% include footer.html %}
+</html>

@@ -1,0 +1,38 @@
+---
+layout: default
+title: Activities at IMS Metagroup
+permalink:	news.html
+---
+
+<h1> Activities</h1>
+
+<div class="ui items">
+  {% for post in site.posts%}
+    <div class="item">
+      <a href="{{ post.url | prepend: site.baseurl }}" class="ui tiny image">
+        {% if {{{{post.image}}}} %}
+          <img src"{{ post.image }}" alt="">
+        {% else %}
+          <img src"/images/news/default.png" alt="">
+        {% endif %}
+      </a >
+        <div class="content">
+          <div class="header">
+            {% if {{{{post.title}}}} %}
+                  {{ post.title }}
+                {% else %}
+
+                {% endif %}
+          </div>
+          <div class="description">
+            {% if {{{{post.summary}}}} %}
+                  {{ post.summary }}
+                {% else %}
+                  {{ post.excerpt }}
+                {% endif %}
+          </div>
+        </div>
+
+    </div>
+  {% endfor %}
+</div>

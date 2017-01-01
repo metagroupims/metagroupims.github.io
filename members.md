@@ -1,0 +1,180 @@
+---
+layout: default
+title: Members at IMS Metagroup
+permalink:	members.html
+---
+# Members
+
+<div class="ui segment list">
+  <div class="item">
+    <img class="ui top aligned rounded image" src="data:image/jpeg;base64,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">
+    <div class="content">
+      <h2 class="header">Group leader</h2>
+      <h4 class="description">
+        Prof. Vu Dinh Lam
+      </h4>
+      <div class="ui list">
+        <div class="item">
+          Vice Director of Institute of Materials Science (IMS)
+        </div>
+        <div class="item">
+          Director of National Key Lab
+        </div>
+        <div class="item">
+          Vietnam Academy of Science and Technology (VAST)
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+## Research staffs
+
+<div class="ui container four columns grid">
+  <div class="row">
+    <div class="four wide column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-thanh-tung.jpg" alt="Nguyen Thanh Tung" width="120px" height="120px">
+        Dr. Nguyen Thanh Tung
+      </div>
+    </div>
+
+    <div class="four wide column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/phan-thi-duyen.jpg" alt="Phan Thi Duyen" width="120px" height="120px">
+        Phan Thi Duyen
+      </div>
+    </div>
+
+    <div class="four wide column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-van-dung.jpg" alt="Nguyen Van Dung" width="120px" height="120px">
+        Nguyen Van Dung
+      </div>
+    </div>
+
+    <div class="four wide column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-hoang-tung.jpg" alt="Nguyen Hoang Tung" width="120px" height="120px">
+        Nguyen Hoang Tung
+      </div>
+    </div>
+
+  </div>
+
+</div>
+
+___
+
+## Joint Research staffs
+
+<div class="ui container four columns grid">
+  <div class="row">
+    <div class="four wide column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-minh-tuan.jpg" alt="Nguyen Minh Tuan" width="120px" height="120px">
+        Nguyen Minh Tuan
+      </div>
+    </div>
+
+    <div class="four wide column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/le-minh-thuy.png" alt="Le Minh Thuy" width="120px" height="120px">
+        Le Minh Thuy
+      </div>
+    </div>
+
+    <div class="four wide column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/do-thanh-viet.jpg" alt="Do Thanh Viet" width="120px" height="120px">
+        Do Thanh Viet
+      </div>
+    </div>
+
+    <div class="four wide column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-thi-hien.jpg" alt="Nguyen Thi Hien" width="120px" height="120px">
+        Nguyen Thi Hien
+      </div>
+    </div>
+
+  </div>
+
+</div>
+___
+
+## PhD Students
+
+<div class="ui container four columns grid">
+  <div class="row">
+    <div class="four wide column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/pham-thi-trang.jpg" alt="Pham Thi Trang" width="120px" height="120px">
+        Pham Thi Trang
+      </div>
+    </div>
+
+    <div class="four wide column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/dang-hong-luu.jpg" alt="Dang Hong Luu" width="120px" height="120px">
+        Dang Hong Luu
+      </div>
+    </div>
+
+    <div class="four wide column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/dinh-hong-tiep.jpg" alt="Dinh Hong Tiep" width="120px" height="120px">
+        Dinh Hong Tiep
+      </div>
+    </div>
+
+  </div>
+
+</div>
+
+___
+
+## Bachelor Students
+
+<div class="ui container four columns grid">
+  <div class="row">
+    <div class="four wide column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/trinh-thi-giang.jpg" alt="Trinh Thi Giang" width="120px" height="120px">
+        Trinh Thi Giang
+      </div>
+    </div>
+
+    <div class="four wide column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/vu-dinh-quy.jpg" alt="Vu Dinh Quy" width="120px" height="120px">
+        Vu Dinh Quy
+      </div>
+    </div>
+
+    <div class="four wide column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/le-dinh-hai.jpg" alt="Le Dinh Hai" width="120px" height="120px">
+        Le Dinh Hai
+      </div>
+    </div>
+
+  </div>
+
+</div>
+___
+
+## Former members
+
+- Vu Tran Thanh Thuy (PhD student, Eindhoven TU)
+- Bui Son Tung (PhD student, Hanyang University)
+- Pham Van Tuong (PhD student, CEA)
+- Bui Xuan Khuyen (PhD student, Hanyang University)
+- Ngo Duc Viet (Master student, Kyung Hee University)
+- Nguyen Van Minh Khoi
+- Dang Minh Tuan
+- Ly Nguyen Le
+- Giap Manh Cuong (The Moon)
+- Nguyen Trong Tuan (Thai Nguyen University)
+- Le Van Quynh (France)
+- Nguyen Thi Quynh (Taiwan)

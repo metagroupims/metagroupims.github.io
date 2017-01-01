@@ -1,0 +1,55 @@
+# Site settings
+title:       Metamaterial group at Institute of Material Science, Vietnam
+email:       lamvd108@gmail.com
+author:      Nguyen Van Dung
+description: "IMS Metamaterial Group is a part of Laboratory of Superconductivity and Magnetism, Institute of Materials Science, Vietnam Academy of Science and Technology. Our research group activities focus mainly on investigating the electromagnetism of metamaterials operating at microwave and THz frequencies. Research at IMS metamaterial group is based on both experimental and theoretical approaches, covering a wide range of advanced metamaterial designs and properties. The researchers at IMS metamaterial group is working in a strong collaboration with domestic and international experts in the field of optics, photonics, and metamaterials."
+baseurl:     ""
+url:         "http://metagroup-ims.com"
+
+# Google analytics
+google_analytics:
+
+mathjax: true
+# Optional features
+animated:           true
+
+disqus_shortname:
+
+# Social icons
+github_username:	doanguyen
+stackoverflow_id:
+twitter_username:
+google_plus_id:
+linkedin_username:
+angellist_username:
+medium_id:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Post sharing icons
+show_sharing_icons: false
+share_text: 'Share this post!'
+# Change to 'true' to enable individual icons
+share_facebook: false
+share_twitter: false
+share_googleplus: false
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
+
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     20
+paginate_path:	news/page-:num
+sass:
+  compressed: true
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
