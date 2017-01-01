@@ -10,7 +10,7 @@ permalink:	news.html
   {% for post in site.posts%}
     <div class="item">
       <a href="{{ post.url | prepend: site.baseurl }}" class="ui tiny image">
-        {% if {{{{post.image}}}} %}
+        {% if post.image %}
           <img src"{{ post.image }}" alt="">
         {% else %}
           <img src"/images/news/default.png" alt="">
@@ -18,14 +18,14 @@ permalink:	news.html
       </a >
         <div class="content">
           <div class="header">
-            {% if {{{{post.title}}}} %}
+            {% if post.title %}
                   {{ post.title }}
                 {% else %}
 
                 {% endif %}
           </div>
           <div class="description">
-            {% if {{{{post.summary}}}} %}
+            {% if post.summary %}
                   {{ post.summary }}
                 {% else %}
                   {{ post.excerpt }}

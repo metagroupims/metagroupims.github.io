@@ -52,4 +52,4 @@ sass:
   compressed: true
 gems:
   - jekyll-sitemap
-  - jekyll-paginate
+  # - jekyll-paginate
