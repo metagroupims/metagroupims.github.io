@@ -13,9 +13,9 @@
 	<meta name="msvalidate.01" content="AAF1839A763BCBD427E1038B41C34028" />
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/dist/css/metagroup.css?201701021723" type="text/css">
-    <script type="text/javascript" src="/dist/scripts/jquery-3.1.1.min.js?201701021723"></script>
-    <script type="text/javascript" src="/dist/scripts/metagroup.js?201701021723"></script>
+    <link rel="stylesheet" href="/dist/css/metagroup.css?201701022104" type="text/css">
+    <script type="text/javascript" src="/dist/scripts/jquery-3.1.1.min.js?201701022104"></script>
+    <script type="text/javascript" src="/dist/scripts/metagroup.js?201701022104"></script>
     
     
     <!-- Open Graph -->
@@ -31,15 +31,18 @@
 </head>
 
 <body>
+<div class="pusher">
     <!-- Sidebar Menu -->
-  <!-- <div class="ui vertical inverted sidebar menu">
-    <a class="active item">Home</a>
-    <a class="item">Work</a>
-    <a class="item">Company</a>
-    <a class="item">Careers</a>
-    <a class="item">Login</a>
-    <a class="item">Signup</a>
-  </div> -->
+
+  <div class="ui vertical inverted sidebar menu">
+    <a href="/" class="item"><i class="home icon"></i>Home</a>
+    <a href="/members.html" class="item"><i class="users icon"></i>Members</a>
+    <a href="/research.html" class="item"><i class="student icon"></i>Research</a>
+    <a href="/publications.html" class="item"><i class="file pdf outline icon"></i>Publications</a>
+    <a href="/collaboration.html" class="item"><i class="translate icon"></i>Collaboration</a>
+    <a href="/news.html" class="item"><i class="heartbeat icon"></i>Activities</a>
+    <a href="/contact.html" class="item"><i class="doctor icon"></i>Contact</a>
+  </div>
 
 <div class="ui large secondary pointing menu">
   <a class="toc item">
@@ -61,6 +64,7 @@
 
   </div>
 </div>
+
 
   <div class="ui vertical segment">
     <div class="ui center aligned three column grid container">
@@ -218,6 +222,7 @@
       </div>
     </div>
   </div>
+  </div>
 </body>
 
 <script type="text/javascript"
@@ -239,4 +244,9 @@
     </div>
   </div>
 </div>
+<script>
+  (function(){
+    $('.ui.sidebar').sidebar('attach events', '.toc.item');
+  })();
+</script>
 </html>

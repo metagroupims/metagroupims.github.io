@@ -2,7 +2,9 @@
 <html lang="en">
 {% include head.html %}
 <body>
+<div class="pusher">
   {% include header.html %}
+
   <div class="ui vertical segment">
     <div class="ui center aligned three column grid container">
       <div class="row">
@@ -19,6 +21,12 @@
       </div>
     </div>
   </div>
+  </div>
 </body>
 {% include footer.html %}
+<script>
+  (function(){
+    $('.ui.sidebar').sidebar('attach events', '.toc.item');
+  })();
+</script>
 </html>
