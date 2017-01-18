@@ -161,7 +161,7 @@ ___
     
   <div class="four wide computer eight wide mobile column center aligned">
       <div class="">
-        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-minh-nguyet.jpg" alt="Nguyen Minh Nguyet" width="120px" height="120px">
+        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-minh-nguyet.jpg" alt="Nguyen Minh Nguyet" width="120px" height="200px">
         Nguyen Minh nguyet
       </div>
     </div>
