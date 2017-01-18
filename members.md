@@ -140,7 +140,7 @@ ___
   <div class="row">
     <div class="four wide computer eight wide mobile column center aligned">
       <div class="">
-        <img class="ui top aligned rounded image" src="/images/portraits/trinh-thi-giang.JPG" alt="Trinh Thi Giang" width="150px" height="120px">
+        <img class="ui top aligned rounded image" src="/images/portraits/trinh-thi-giang.JPG" alt="Trinh Thi Giang" width="120px" height="150px">
         Trinh Thi Giang
       </div>
     </div>
