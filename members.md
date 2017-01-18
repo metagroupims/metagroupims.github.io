@@ -41,8 +41,8 @@ permalink:	members.html
 
     <div class="four wide computer eight wide mobile column center aligned">
       <div class="">
-        <img class="ui top aligned rounded image" src="/images/portraits/phan-thi-duyen.jpg" alt="Phan Thi Duyen" width="120px" height="120px">
-        Phan Thi Duyen
+        <img class="ui top aligned rounded image" src="/images/portraits/bui-son-tung.jpg" alt="Bui Son Tung" width="120px" height="120px">
+        Bui Son Tung
       </div>
     </div>
 
