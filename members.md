@@ -109,7 +109,7 @@ ___
   <div class="row">
     <div class="four wide computer eight wide mobile column center aligned">
       <div class="">
-        <img class="ui top aligned rounded image" src="/images/portraits/pham-thi-trang.jpg" alt="Pham Thi Trang" width="120px" height="120px">
+        <img class="ui top aligned rounded image" src="/images/portraits/pham-thi-trang.JPG" alt="Pham Thi Trang" width="120px" height="120px">
         Pham Thi Trang
       </div>
     </div>
