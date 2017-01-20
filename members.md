@@ -79,8 +79,8 @@ ___
 
     <div class="four wide computer eight wide mobile column center aligned">
       <div class="">
-        <img class="ui top aligned rounded image" src="/images/portraits/le-minh-thuy.png" alt="Le Minh Thuy" width="120px" height="120px">
-        Le Minh Thuy
+        <img class="ui top aligned rounded image" src="/images/portraits/le-dac-tuyen.jpg" alt="Le Dac Tuyen" width="120px" height="150px">
+        Le Dac Tuyen
       </div>
     </div>
 
