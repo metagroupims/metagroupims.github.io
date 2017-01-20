@@ -128,6 +128,13 @@ ___
       </div>
     </div>
 
+ <div class="four wide computer eight wide mobile column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-van-cuong.jpg" alt="Nguyen Van Cuong" width="120px" height="150px">
+        Nguyen Van Cuong
+      </div>
+    </div>
+
   </div>
 
 </div>
