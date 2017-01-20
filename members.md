@@ -161,7 +161,7 @@ ___
 
     <div class="four wide computer eight wide mobile column center aligned">
       <div class="">
-        <img class="ui top aligned rounded image" src="/images/portraits/le-dinh-hai.jpg" alt="Le Dinh Hai" width="120px" height="120px">
+        <img class="ui top aligned rounded image" src="/images/portraits/le-dinh-hai.jpg" alt="Le Dinh Hai" width="120px" height="150px">
         Le Dinh Hai
       </div>
     </div>
