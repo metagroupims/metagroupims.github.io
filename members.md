@@ -154,7 +154,7 @@ ___
 
     <div class="four wide computer eight wide mobile column center aligned">
       <div class="">
-        <img class="ui top aligned rounded image" src="/images/portraits/vu-dinh-qui.jpg" alt="Vu Dinh Quy" width="120px" height="120px">
+        <img class="ui top aligned rounded image" src="/images/portraits/vu-dinh-qui.jpg" alt="Vu Dinh Quy" width="120px" height="150px">
         Vu Dinh Quy
       </div>
     </div>
