@@ -139,6 +139,22 @@ ___
 
 </div>
 
+## Master Students
+
+<div class="ui container four columns grid">
+  <div class="row">
+    <div class="four wide computer eight wide mobile column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/pham-the-linh.jpg" alt="Pham The Linh" width="120px" height="120px">
+        Pham The Linh
+      </div>
+    </div>
+
+
+  </div>
+
+</div>
+
 ___
 
 ## Bachelor Students
@@ -161,18 +177,18 @@ ___
 
     <div class="four wide computer eight wide mobile column center aligned">
       <div class="">
-        <img class="ui top aligned rounded image" src="/images/portraits/le-dinh-hai.jpg" alt="Le Dinh Hai" width="120px" height="150px">
-        Le Dinh Hai
+        <img class="ui top aligned rounded image" src="/images/portraits/le-danh-phuong.jpg" alt="Le Danh Phuong" width="120px" height="150px">
+        Le Danh Phuong
       </div>
     </div>
-    
+
   <div class="four wide computer eight wide mobile column center aligned">
       <div class="">
         <img class="ui top aligned rounded image" src="/images/portraits/nguyen-minh-nguyet.jpg" alt="Nguyen Minh Nguyet" width="120px" height="200px">
         Nguyen Minh nguyet
       </div>
     </div>
-    
+
   </div>
 
 </div>

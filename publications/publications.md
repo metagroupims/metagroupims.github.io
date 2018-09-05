@@ -6,10 +6,86 @@ permalink:	publications.html
 
 # Publications
 
-<h3 style="text-align: center;"><a href="#2017">2017</a>&nbsp;|&nbsp;<a href="#2016">2016</a>&nbsp;|&nbsp;<a href="#2015">2015 </a>|&nbsp;<a href="#2014">2014 </a>|&nbsp;<a href="#2013">2013</a>&nbsp;| <a href="#2012">2012</a> | <a href="#2011">2011</a>&nbsp;| <a href="#2010">2010</a>&nbsp;| <a href="#2009">2009</a>&nbsp;| <a href="#2008">2008</a>&nbsp;| <a href="#2007">2007</a>&nbsp;&nbsp;</h3>
+<h3 style="text-align: center;">
+<a href="#2018">2018</a>&nbsp;|&nbsp;
+<a href="#2017">2017</a>&nbsp;|&nbsp;
+<a href="#2016">2016</a>&nbsp;|&nbsp;
+<a href="#2015">2015 </a>|&nbsp;
+<a href="#2014">2014 </a>|&nbsp;
+<a href="#2013">2013</a>&nbsp;|
+<a href="#2012">2012</a> |
+<a href="#2011">2011</a>&nbsp;|
+<a href="#2010">2010</a>&nbsp;|
+<a href="#2009">2009</a>&nbsp;|
+<a href="#2008">2008</a>&nbsp;|
+<a href="#2007">2007</a>&nbsp;&nbsp;</h3>
 <h3 style="text-align: center;"><a href="#bf2007">Before 2007</a>&nbsp;| <a href="/publications/non-isi-papers.html">Non ISI papers</a></h3>
 
+<h3 style="text-align: center;"><a name="2018">2018</a></h3>
+
+<p><strong>Enhanced-bandwidth perfect absorption based on a hybrid metamaterial</strong><br />
+D. H. Tiep, B. X. Khuyen, B. S. Tung, Y. J. Kim, J. S. Hwang, V. D. Lam, and Y. P. Lee
+<br /><em><font style="color: rgb(128, 128, 0); font-style: italic;"><strong>
+	Opt. Mat. Exp.
+	</strong></font></em><strong>8 </strong>, 2751 (2018).
+	DOI:10.1038/s41598-018-29896-4.
+</p>
+
+
+<p><strong>Ultra-subwavelength thickness for dual/triple-band metamaterial absorber at very low frequency</strong><br />
+Bui Xuan Khuyen, Bui Son Tung, Young Ju Kim, Ji Sub Hwang, Ki Won Kim, Joo Yull Rhee, Vu Dinh Lam and YuongPak Lee
+<br /><em><font style="color: rgb(128, 128, 0); font-style: italic;"><strong>
+	Sci. Re.
+	</strong></font></em><strong>8 </strong>, 11632 (2018).
+	DOI:10.1038/s41598-018-29896-4.
+</p>
+
+
+<p><strong>Controlled Defect Based Ultra Broadband Full-sized Metamaterial Absorber</strong><br />
+Manh Cuong Tran, Dinh Hai Le, Van Hai Pham, Hoang Tung Do, Dac Tuyen Le, Hong Luu Dang, Dinh Lam Vu
+<br /><em><font style="color: rgb(128, 128, 0); font-style: italic;"><strong>
+	Sci. Re.
+	</strong></font></em><strong>8 </strong>, 9523 (2018).
+	DOI:10.1038/s41598-018-27920-1.
+</p>
+
+<p><strong>Induced high-order resonance linewidth shrinking with multiple coupled resonators in silicon-organic hybrid slotted two-dimensional photonic crystals for reduced optical switching power in bistable devices</strong><br />
+Thu Trang Hoang, Quang Minh Ngo, Dinh Lam Vu, Khai Q. Le, Truong Khang Nguyen Hieu P. T. Nguyen
+<br /><em><font style="color: rgb(128, 128, 0); font-style: italic;"><strong>
+	Journal of Nanophotonics
+	</strong></font></em><strong>12 </strong>, 016014 (2018).
+</p>
+
+
+<p><strong>Reversibly-propagational metamaterial absorber for sensing application</strong><br />
+Dang  Hong  Luu, Bui  Son  Tung, Bui  Xuan  Khuyen, Le  Dac Tuyen, Vu  Dinh Lam
+<br /><em><font style="color: rgb(128, 128, 0); font-style: italic;"><strong>
+	Bui Son Tung, Bui Xuan Khuyen and Young Joon Yoo, YoungPak Lee and Vu Dinh Lam
+	</strong></font></em> 1850044 (2018).
+</p>
+
+<p><strong>Multi-band  absorption  induced  by  near-field coupling  and defects  in  metamaterial</strong><br />
+Dang  Hong  Luu, Bui  Son  Tung, Bui  Xuan  Khuyen, Le  Dac Tuyen, Vu  Dinh Lam
+<br /><em><font style="color: rgb(128, 128, 0); font-style: italic;"><strong>
+	Applied Surface  Science
+	</strong></font></em><strong>427 </strong>, 649–655 (2018).
+</p>
+
+<p><strong>Effect  of  flattened  surface  morphology of  anodized  aluminum  oxide templates  on  the  magnetic  properties  of  nanoporous  Co/Pt  and  Co/Pd thin  multilayered  films</strong><br />
+T.N. Anh Nguyen, J.  Fedotova, J.  Kasiuk, V.  Bayev, O. Kupreeva, S.Lazarouk, D.H.  Manh, Vu Dinh Lam, S.  Chung, J.  Åkerman, V.  Altynov, A. Maximenko
+	<br /><em><font style="color: rgb(128, 128, 0); font-style: italic;"><strong>
+	Applied Surface  Science
+	</strong></font></em><strong>427 </strong>, 649–655 (2018).
+</p>
+
 <h3 style="text-align: center;"><a name="2017">2017</a></h3>
+
+<p><strong>Polarization-independent, wide incident-angle and dual-band perfect absorption, based on near-field coupling in a symmetric metamaterial</strong><br />
+Bui Son Tung, Bui Xuan Khuyen, Young Ju Kim, Vu Dinh Lam, Ki Won Kim, YoungPak Le
+	<br /><em><font style="color: rgb(128, 128, 0); font-style: italic;"><strong>
+	Sci. Rep.
+	</strong></font></em> 711507 (2017).
+</p>
 
 <p><strong>Miniaturization for ultrathin metamaterial perfect absorber in the VHF band</strong><br />
 	Bui Xuan Khuyen, Bui Son Tung, Young Joon Yoo, Young Ju Kim, Ki Won Kim, Liang-Yao Chen, Vu Dinh Lam, and YoungPak Lee
@@ -88,7 +164,7 @@ permalink:	publications.html
 <p><strong>Metamaterial-enhanced vibrational absorption spectroscopy for the detection of protein molecules</strong><br />
 	Tung S. Bui, Thang D. Dao, Luu H. Dang, Lam D. Vu, Akihiko Ohi, Toshihide Nabatame, YoungPak Lee, Tadaaki Nagao, and Chung V. Hoang
 	<br /><em><font style="color: rgb(128, 128, 0); font-style: italic;"><strong>
-	Sci. Rep. 
+	Sci. Rep.
 	</strong></font></em> <strong>6</strong>, 32123 (2016).
 </p>
 
