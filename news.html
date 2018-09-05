@@ -5,7 +5,51 @@ permalink:	news.html
 ---
 
 <h1> Activities</h1>
+<script src="//cdn.jsdelivr.net/npm/siema@1.5.1/dist/siema.min.js" charset="utf-8"></script>
 
+<style media="screen">
+.demo {
+  max-width:450px;
+  max-height: 450px;
+}
+ul {
+  list-style: none outside none;
+  padding-left: 0;
+  margin-bottom:0;
+}
+li {
+  display: block;
+  float: left;
+  margin-right: 6px;
+  cursor:pointer;
+}
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+</style>
+
+<div class="siema">
+      <div data-thumb="/images/activities/1.jpg">
+          <img src="/images/activities/1.jpg" />
+      </div>
+      <div data-thumb="/images/activities/2.jpg">
+          <img src="/images/activities/2.jpg" />
+      </div>
+      <div data-thumb="/images/activities/3.jpg">
+          <img src="/images/activities/3.jpg" />
+      </div>
+      <div data-thumb="/images/activities/4.jpg">
+          <img src="/images/activities/4.jpg" />
+      </div>
+      <div data-thumb="/images/activities/5.jpg">
+          <img src="/images/activities/5.jpg" />
+      </div>
+      <div data-thumb="/images/activities/6.jpg">
+          <img src="/images/activities/6.jpg" />
+      </div>
+</div>
 <div class="ui items">
   {% for post in site.posts %}
     <div class="item">
@@ -37,3 +81,20 @@ permalink:	news.html
     </div>
   {% endfor %}
 </div>
+
+<script type="text/javascript">
+new Siema({
+  selector: '.siema',
+  duration: 200,
+  easing: 'ease-out',
+  perPage: 1,
+  startIndex: 0,
+  draggable: true,
+  multipleDrag: true,
+  threshold: 20,
+  loop: false,
+  rtl: false,
+  onInit: () => {},
+  onChange: () => {},
+});
+</script>
