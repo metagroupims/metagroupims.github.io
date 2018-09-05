@@ -105,12 +105,6 @@ ___
       </div>
     </div>
 
-    <div class="four wide computer eight wide mobile column center aligned">
-      <div class="">
-        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-thi-hien.jpg" alt="Nguyen Thi Hien" width="120px" height="120px">
-        Nguyen Thi Hien
-      </div>
-    </div>
 
   </div>
 
@@ -123,8 +117,8 @@ ___
   <div class="row">
     <div class="four wide computer eight wide mobile column center aligned">
       <div class="">
-        <img class="ui top aligned rounded image" src="/images/portraits/pham-thi-trang.JPG" alt="Pham Thi Trang" width="120px" height="120px">
-        Pham Thi Trang
+        <img class="ui top aligned rounded image" src="/images/portraits/tran-van-huynh.jpg" alt="Tran Van Huynh" width="120px" height="120px">
+        Tran Van Huynh
       </div>
     </div>
 
@@ -184,7 +178,7 @@ ___
     </div>
     <div class="four wide computer eight wide mobile column center aligned">
       <div class="">
-        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-van-ngoc" alt="Nguyen Van Ngoc" width="120px" height="150px">
+        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-van-ngoc.jpg" alt="Nguyen Van Ngoc" width="120px" height="150px">
         Nguyen Van Ngoc
       </div>
     </div>
