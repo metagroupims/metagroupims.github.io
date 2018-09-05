@@ -1,6 +1,27 @@
 ---
 layout: default
 ---
+<style media="screen">
+.demo {
+  width:450px;
+}
+ul {
+  list-style: none outside none;
+  padding-left: 0;
+  margin-bottom:0;
+}
+li {
+  display: block;
+  float: left;
+  margin-right: 6px;
+  cursor:pointer;
+}
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+</style>
 <!-- <div class="ui embed rounded" data-url="https://www.youtube.com/embed/5JSab6z7hFs" data-placeholder="https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2015/4-scientistscr.jpg"></div> -->
 <script src="//sachinchoolur.github.io/lightslider/dist/js/lightslider.js" charset="utf-8"></script>
 
