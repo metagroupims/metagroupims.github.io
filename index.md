@@ -3,7 +3,7 @@ layout: default
 ---
 <style media="screen">
 .demo {
-  width:450px;
+  max-width:450px;
 }
 ul {
   list-style: none outside none;
@@ -23,29 +23,27 @@ img {
 }
 </style>
 <!-- <div class="ui embed rounded" data-url="https://www.youtube.com/embed/5JSab6z7hFs" data-placeholder="https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2015/4-scientistscr.jpg"></div> -->
-<script src="//sachinchoolur.github.io/lightslider/dist/js/lightslider.js" charset="utf-8"></script>
+<script src="//cdn.jsdelivr.net/npm/siema@1.5.1/dist/siema.min.js" charset="utf-8"></script>
 
-<div class="demo">
-    <ul id="lightSlider">
-        <li data-thumb="/images/activities/1.jpg">
-            <img src="/images/activities/1.jpg" />
-        </li>
-        <li data-thumb="/images/activities/2.jpg">
-            <img src="/images/activities/2.jpg" />
-        </li>
-        <li data-thumb="/images/activities/3.jpg">
-            <img src="/images/activities/3.jpg" />
-        </li>
-        <li data-thumb="/images/activities/4.jpg">
-            <img src="/images/activities/4.jpg" />
-        </li>
-        <li data-thumb="/images/activities/5.jpg">
-            <img src="/images/activities/5.jpg" />
-        </li>
-        <li data-thumb="/images/activities/6.jpg">
-            <img src="/images/activities/6.jpg" />
-        </li>
-    </ul>
+<div class="siema">
+      <div data-thumb="/images/activities/1.jpg">
+          <img src="/images/activities/1.jpg" />
+      </div>
+      <div data-thumb="/images/activities/2.jpg">
+          <img src="/images/activities/2.jpg" />
+      </div>
+      <div data-thumb="/images/activities/3.jpg">
+          <img src="/images/activities/3.jpg" />
+      </div>
+      <div data-thumb="/images/activities/4.jpg">
+          <img src="/images/activities/4.jpg" />
+      </div>
+      <div data-thumb="/images/activities/5.jpg">
+          <img src="/images/activities/5.jpg" />
+      </div>
+      <div data-thumb="/images/activities/6.jpg">
+          <img src="/images/activities/6.jpg" />
+      </div>
 </div>
 
 # Welcome to IMS Metamaterial Group
@@ -58,11 +56,18 @@ IMS-Metamaterial Group is a part of Laboratory of Superconductivity and Magnetis
 
 <script>
 $('.ui.embed').embed();
-$('#lightSlider').lightSlider({
-    gallery: true,
-    item: 1,
-    loop:true,
-    slideMargin: 0,
-    thumbItem: 9
+new Siema({
+  selector: '.siema',
+  duration: 200,
+  easing: 'ease-out',
+  perPage: 1,
+  startIndex: 0,
+  draggable: true,
+  multipleDrag: true,
+  threshold: 20,
+  loop: false,
+  rtl: false,
+  onInit: () => {},
+  onChange: () => {},
 });
 </script>
