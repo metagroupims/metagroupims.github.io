@@ -79,7 +79,14 @@ ___
 
     <div class="four wide computer eight wide mobile column center aligned">
       <div class="">
-        <img class="ui top aligned rounded image" src="/images/portraits/le-dac-tuyen.jpg" alt="Le Dac Tuyen" width="120px" height="150px">
+        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-thi-thuy.jpg" alt="Nguyen Thi Thuy" width="120px" height="120px">
+        Nguyen Thi Thuy
+      </div>
+    </div>
+
+    <div class="four wide computer eight wide mobile column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/le-dac-tuyen.jpg" alt="Le Dac Tuyen" width="120px" height="120px">
         Le Dac Tuyen
       </div>
     </div>
@@ -88,6 +95,13 @@ ___
       <div class="">
         <img class="ui top aligned rounded image" src="/images/portraits/do-thanh-viet.jpg" alt="Do Thanh Viet" width="120px" height="120px">
         Do Thanh Viet
+      </div>
+    </div>
+
+    <div class="four wide computer eight wide mobile column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-thi-hien.jpg" alt="Nguyen Thi Hien" width="120px" height="120px">
+        Nguyen Thi Hien
       </div>
     </div>
 
@@ -130,7 +144,7 @@ ___
 
  <div class="four wide computer eight wide mobile column center aligned">
       <div class="">
-        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-van-cuong.jpg" alt="Nguyen Van Cuong" width="120px" height="150px">
+        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-van-cuong.jpg" alt="Nguyen Van Cuong" width="120px" height="120px">
         Nguyen Van Cuong
       </div>
     </div>
@@ -140,6 +154,7 @@ ___
 </div>
 
 ## Master Students
+___
 
 <div class="ui container four columns grid">
   <div class="row">
@@ -167,6 +182,12 @@ ___
         Trinh Thi Giang
       </div>
     </div>
+    <div class="four wide computer eight wide mobile column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-van-ngoc" alt="Nguyen Van Ngoc" width="120px" height="150px">
+        Nguyen Van Ngoc
+      </div>
+    </div>
 
     <div class="four wide computer eight wide mobile column center aligned">
       <div class="">
@@ -184,7 +205,7 @@ ___
 
   <div class="four wide computer eight wide mobile column center aligned">
       <div class="">
-        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-minh-nguyet.jpg" alt="Nguyen Minh Nguyet" width="120px" height="200px">
+        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-minh-nguyet.jpg" alt="Nguyen Minh Nguyet" width="120px" height="120px">
         Nguyen Minh nguyet
       </div>
     </div>
@@ -208,3 +229,4 @@ ___
 - Nguyen Trong Tuan (Thai Nguyen University)
 - Le Van Quynh (France)
 - Nguyen Thi Quynh (Taiwan)
+- Pham Thi Trang
