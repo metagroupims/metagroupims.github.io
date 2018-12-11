@@ -46,12 +46,7 @@ permalink:	members.html
       </div>
     </div>
 
-    <div class="four wide computer eight wide mobile column center aligned">
-      <div class="">
-        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-van-dung.jpg" alt="Nguyen Van Dung" width="120px" height="120px">
-        Nguyen Van Dung
-      </div>
-    </div>
+
 
     <div class="four wide computer eight wide mobile column eight wide column mobile center aligned">
       <div class="">
@@ -59,7 +54,18 @@ permalink:	members.html
         Nguyen Hoang Tung
       </div>
     </div>
-
+    <div class="four wide computer eight wide mobile column eight wide column mobile center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/bui-xuan-khuyen.png" alt="Bui Xuan Khuyen" width="120px" height="140px">
+        Bui Xuan Khuyen
+      </div>
+    </div>
+        <div class="four wide computer eight wide mobile column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-van-dung.jpg" alt="Nguyen Van Dung" width="120px" height="120px">
+        Nguyen Van Dung
+      </div>
+    </div>
   </div>
 
 </div>
@@ -72,8 +78,15 @@ ___
   <div class="row">
     <div class="four wide computer eight wide mobile column center aligned">
       <div class="">
-        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-minh-tuan.jpg" alt="Nguyen Minh Tuan" width="120px" height="120px">
-        Nguyen Minh Tuan
+        <img class="ui top aligned rounded image" src="/images/portraits/tran-manh-cuong.png" alt="Tran Manh Cuong" width="120px" height="120px">
+        Tran Manh Cuong
+      </div>
+    </div>
+
+    <div class="four wide computer eight wide mobile column center aligned">
+      <div class="">
+        <img class="ui top aligned rounded image" src="/images/portraits/phan-anh.jpg" alt="Phan Anh" width="120px" height="120px">
+        Phan Anh
       </div>
     </div>
 
@@ -199,8 +212,8 @@ ___
 
   <div class="four wide computer eight wide mobile column center aligned">
       <div class="">
-        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-minh-nguyet.jpg" alt="Nguyen Minh Nguyet" width="120px" height="120px">
-        Nguyen Minh nguyet
+        <img class="ui top aligned rounded image" src="/images/portraits/nguyen-minh-nguyet.jpg" alt="Nguyen Minh Nguyet" width="120px" height="150px">
+        Nguyen Minh Nguyet
       </div>
     </div>
 
@@ -212,9 +225,7 @@ ___
 ## Former members
 
 - Vu Tran Thanh Thuy (PhD student, Eindhoven TU)
-- Bui Son Tung (PhD student, Hanyang University)
 - Pham Van Tuong (PhD student, CEA)
-- Bui Xuan Khuyen (PhD student, Hanyang University)
 - Ngo Duc Viet (Master student, Kyung Hee University)
 - Nguyen Van Minh Khoi
 - Dang Minh Tuan
