@@ -35,12 +35,12 @@
 
 .slider-arrow--right {
   bottom: 50%;
-  right: 30px;
+  right: 70px;
 }
 
 .slider-arrow--left {
   bottom: 50%;
-  left: 30px;
+  left: 70px;
 }
 
 .slider-nav {
@@ -93,19 +93,27 @@ background-position: -17px 0;
   background-size: cover;
 }
 .slider1 .item1 {
-  background:url("/images/activities/1.jpg") no-repeat center;
+  background:url("/images/banner/1.jpg") no-repeat center;
   background-size: contain;
 }
 .slider1 .item2 {
-  background:url("/images/activities/2.jpg") no-repeat center;
+  background:url("/images/banner/2.jpg") no-repeat center;
   background-size: contain;
 }
 .slider1 .item3 {
-  background:url("/images/activities/3.jpg") no-repeat center;
+  background:url("/images/banner/3.jpg") no-repeat center;
   background-size: contain;
 }
 .slider1 .item4 {
-  background:url("/images/activities/4.jpg") no-repeat center;
+  background:url("/images/banner/4.jpg") no-repeat center;
+  background-size: contain;
+}
+.slider1 .item5 {
+  background:url("/images/banner/5.jpg") no-repeat center;
+  background-size: contain;
+}
+.slider1 .item6 {
+  background:url("/images/banner/6.jpg") no-repeat center;
   background-size: contain;
 }
 .slider1 {

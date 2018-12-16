@@ -408,3 +408,8 @@ img,legend{border:0}body,h1,h2,h3,h4,h5,legend,td,th{padding:0}.ui.button,sub,su
 .disabled a:hover {
   background-color: transparent;
 }
+article.post-content{
+    font-size: 1.2rem;
+    line-height: 1.8em;
+    font-family: 'Helvetica Neue',Arial,Helvetica,sans-serif;
+}
